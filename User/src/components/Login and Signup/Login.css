@@ -1,0 +1,61 @@
+ion-Content{
+    --background: #ffffff;
+    
+}
+  
+ion-Toolbar{
+    /* padding: 5%; */
+    margin-top: 5%;
+    --background: transparent;
+}
+#Loginheader{
+    position: relative;
+    padding: 50px 50px;
+    background: #ffce64;
+    border-radius: 0px 0px 30px 30px;
+    bottom: 10px;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:medium;
+}
+
+ion-Card{
+    border-radius: 10px ;
+    margin-top: 10%;
+}
+  
+.Loginwrapper{
+    
+    top: 30%;    
+    margin-right: 5%;
+    padding: 5px 5px ;
+    margin-bottom: 2px;
+}
+  
+.Loginform-wrapper{
+    box-shadow: none;
+    border-radius: 20px;
+    padding: 30px 5px;
+    height: 100%;
+    width: 100%;
+}
+
+.footer{
+    
+    padding-right: 25%;
+}
+  
+
+.Reset{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+ion-Avatar{
+    width: 20%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
